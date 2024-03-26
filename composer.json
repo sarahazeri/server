@@ -1,0 +1,16 @@
+{
+    "name": "sarahazeri/server",
+    "description": "Getting server information such as processor speed and memory amount, etc",
+    "autoload": {
+        "psr-4": {
+            "Sarahazeri\\Server\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hazeri.sara",
+            "email": "hazeri.sara@gmail.com"
+        }
+    ],
+    "require": {}
+}
